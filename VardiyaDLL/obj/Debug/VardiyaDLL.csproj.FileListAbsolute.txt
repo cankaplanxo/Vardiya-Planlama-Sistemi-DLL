@@ -1,0 +1,6 @@
+C:\Users\canka\Desktop\VardiyaDLL\VardiyaDLL\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\VardiyaDLL\VardiyaDLL\bin\Debug\VardiyaDLL.pdb
+C:\Users\canka\Desktop\VardiyaDLL\VardiyaDLL\obj\Debug\VardiyaDLL.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\VardiyaDLL\VardiyaDLL\obj\Debug\VardiyaDLL.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\VardiyaDLL\VardiyaDLL\obj\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\VardiyaDLL\VardiyaDLL\obj\Debug\VardiyaDLL.pdb

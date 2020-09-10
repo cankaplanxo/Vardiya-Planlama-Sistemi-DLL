@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VardiyaDLL", "VardiyaDLL\VardiyaDLL.csproj", "{A2E2933E-8467-467D-9063-94F1B3BB6CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E2933E-8467-467D-9063-94F1B3BB6CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E2933E-8467-467D-9063-94F1B3BB6CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E2933E-8467-467D-9063-94F1B3BB6CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E2933E-8467-467D-9063-94F1B3BB6CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A03D7493-FFA1-4200-8A4C-B0679F5839A9}
+	EndGlobalSection
+EndGlobal
